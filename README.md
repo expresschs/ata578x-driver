@@ -1,2 +1,2 @@
 # ata578x-driver
-driver driver on rtos or bare-metal
+ata5782 driver on rtos or bare-metal
